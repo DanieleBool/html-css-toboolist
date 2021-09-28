@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 75%;
+    margin:auto;
+    padding: 5%;
+}
+
+/* logo */
+#logo{
+    margin: 1% 0% 1% 2%;
+    vertical-align: middle;
+}
+
+#logot{
+    font-size: 35px;
+    font-weight: 600;
+    vertical-align: middle;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* /logo */
+
+/* colori background */
+body{
+    background-color: #f6f8f9;
+}
+
+header{
+    background-color: white;
+}
+
+.container{
+    background-color: white;
+    margin-top: 50px;
+}
+/* colori background */
+
+.containerl h1{
+    display: inline-block;
+}
+
+
+/*  */
+
+
+
+
+/*  */
