@@ -73,14 +73,56 @@ hr{
     border:1px solid #45abea;
 }
 
+.viola{
+    color: white;
+    background-color: #9c72e4;
+    border:1px solid #9c72e4;
+}
+
+.verd1{
+    color: white;
+    background-color: #64c0a9;
+    border:1px solid #64c0a9;
+}
+
+.verd2{
+    color: white;
+    background-color: #b0c926;
+    border:1px solid #b0c926;
+}
+
+.aranc{
+    color: white;
+    background-color: #f29e33;
+    border:1px solid #f29e33;
+}
+
+.fux{
+    color: white;
+    background-color: #d863a1;
+    border:1px solid #d863a1;
+}
 .v{
     font-size: 13px;
     color: green;
-    padding: 0px 2px;
+    padding: 0px 3.5px;
     display: inline-block;
     vertical-align: middle;
     text-align: center;
     border: 1px solid green;
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.x{
+    font-size: 13px;
+    color:red;
+    padding: 0px 3.5px;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    border: 1px solid red;
     border-radius: 50%;
     margin-top: 15px;
     margin-bottom: 15px;
