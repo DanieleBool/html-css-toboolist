@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif
 
 }
 
@@ -45,19 +45,15 @@ header{
 
 /* nav */
 .bott1{
-    background-color: #45abea;
     border-radius: 5px;
-    height: 30px;
-    width: 75px;
-    color: white;
-    border:1px solid #45abea;
+    padding: 1% 2%;
+    
 }
 
 .bott2{
     background-color: white;
     border-radius: 5px;
-    height: 30px;
-    width: 100px;
+    padding: 1% 2%;
     color: #c6ccd1;
     border:1px solid #c6ccd1;
 }
@@ -65,14 +61,38 @@ header{
 hr{
     color: #f6f8f9;
     margin-top: 1%;
-/* /nav */
+    width: auto;
+ } /*non riesco a togliere il margine ai lati*/
 
+/* fine nav */
 
+/* lista */
+.blu{
+    color: white;
+    background-color: #45abea;
+    border:1px solid #45abea;
+}
 
+.v{
+    font-size: 13px;
+    color: green;
+    padding: 0px 2px;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    border: 1px solid green;
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
 
-/*  */
+.box{
+    border-radius: 12px;
+    padding: 4px 9px;
+    font-size: 11px;
+}
 
-
-
-
-/*  */
+h3{
+    margin: 6% 1% 0% 0%;
+}
+/* fine lista */
