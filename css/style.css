@@ -2,12 +2,17 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
 }
 
 .container {
     width: 75%;
     margin:auto;
-    padding: 5%;
+    padding: 1.5% 5% 5% 5%;
+    background-color: white;
+    margin-top: 50px;
+    border-radius: 5px;
 }
 
 /* logo */
@@ -20,7 +25,10 @@
     font-size: 35px;
     font-weight: 600;
     vertical-align: middle;
-    font-family: Arial, Helvetica, sans-serif;
+}
+
+.containerl h1{
+    display: inline-block;
 }
 /* /logo */
 
@@ -33,15 +41,33 @@ header{
     background-color: white;
 }
 
-.container{
-    background-color: white;
-    margin-top: 50px;
-}
 /* colori background */
 
-.containerl h1{
-    display: inline-block;
+/* nav */
+.bott1{
+    background-color: #45abea;
+    border-radius: 5px;
+    height: 30px;
+    width: 75px;
+    color: white;
+    border:1px solid #45abea;
 }
+
+.bott2{
+    background-color: white;
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+    color: #c6ccd1;
+    border:1px solid #c6ccd1;
+}
+
+hr{
+    color: #f6f8f9;
+    margin-top: 1%;
+/* /nav */
+
+
 
 
 /*  */
