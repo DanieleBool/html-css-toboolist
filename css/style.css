@@ -15,6 +15,15 @@
     border-radius: 5px;
 }
 
+.divisore{
+    
+    margin: 10px 0px;
+    background-color: #f6f8f9;
+    padding: 1.5px;
+    /* problema con margini */
+
+}
+
 /* logo */
 #logo{
     margin: 1% 0% 1% 2%;
@@ -135,6 +144,10 @@ hr{
 }
 
 h3{
-    margin: 6% 1% 0% 0%;
+    margin: 4% 1% 0% 0%;
+}
+
+p span{
+    margin-right: 3px;
 }
 /* fine lista */
